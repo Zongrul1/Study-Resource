@@ -1,5 +1,6 @@
 # 题目
 Given a string, find the length of the longest substring without repeating characters.
+link:https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 # 解答
 使用滑动窗口思想加hastset的结构去解答，实现代码如下：
