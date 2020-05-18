@@ -1,2 +1,2 @@
 # Algorithm-Practice
-Record for algorithm practice.
+Record of algorithm practice in Leetcode, 剑指offer, and nowcode.
