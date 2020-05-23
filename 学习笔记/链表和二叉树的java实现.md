@@ -1,6 +1,6 @@
 # 链表java实现
 ```java
- Definition for singly-linked list.
+ //Definition for singly-linked list.
  class ListNode {
      int val;
      ListNode next;
@@ -14,7 +14,7 @@
 # 二叉树java实现
 
 ```java
- Definition for a binary tree node.
+ //Definition for a binary tree node.
  public class TreeNode {
      int val;
      TreeNode left;
