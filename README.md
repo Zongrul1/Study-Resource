@@ -1,5 +1,5 @@
 # Study-Resource
-Some study resource for seek a job of java web developer.
+Some study resource for seeking a job.
 
 # Link
 [**LeetCode刷题指引1**](https://zhuanlan.zhihu.com/p/104983442)
