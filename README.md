@@ -15,3 +15,5 @@ Some study resource for seeking a job.
 [**DOCKER**](https://mp.weixin.qq.com/s?__biz=MzAxNjk4ODE4OQ==&mid=2247489949&idx=3&sn=b98d0ccaffdf1e9fbbb408c417723c60&chksm=9bed38efac9ab1f9aeac9eaea5e46c938c935d2474322bc859e97e9d330e8dccabd56278b922&mpshare=1&scene=1&srcid=0623LJ7oTjdtWAyeEQHa0JMw&sharer_sharetime=1592883792809&sharer_shareid=c0b779bf572eee6e46a25cbfc916c28a&key=2cc21493b77c18de2f5124c115bc7bdaadefc7ff2aa040f8f6db9ae9f2245b97fdc206bd63049c1613667deb2ebb2222a0e2ecfdfb8a5f4d44d5950d5ff616524e1955f079d29b62a09215413adea9ec&ascene=1&uin=OTA3NTg1NTYw&devicetype=Windows+10+x64&version=6209007b&lang=zh_CN&exportkey=AxbrseanOh6yKbQMoPMMW5s%3D&pass_ticket=VtrgY1cuB3I6SK%2FkXNIbbAIK1tY9OHm4xAgqL%2B9cAYNZg%2B1j2emBFQvyN8MIW9Yq)
 
 [**安卓**](https://www.jianshu.com/p/feb9584b492c)
+
+[**MMAP**](https://www.jianshu.com/p/755338d11865)
