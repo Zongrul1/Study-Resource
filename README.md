@@ -17,3 +17,5 @@ Some study resource for seeking a job.
 [**安卓**](https://www.jianshu.com/p/feb9584b492c)
 
 [**MMAP**](https://www.jianshu.com/p/755338d11865)
+
+[**带环链表相交**](https://blog.csdn.net/qq_27703417/article/details/70948523)
