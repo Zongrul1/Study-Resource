@@ -21,3 +21,7 @@ Some study resource for seeking a job.
 [**带环链表相交**](https://blog.csdn.net/qq_27703417/article/details/70948523)
 
 [**反射**](https://blog.csdn.net/u010889990/article/details/80689562)
+
+[**智力题**](https://www.cnblogs.com/XJT2018/p/11539661.html)
+
+[**一个Java程序从编写到最终运行经历了什么？**](https://blog.csdn.net/pf6668/article/details/107176293/)
