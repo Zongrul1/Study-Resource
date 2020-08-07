@@ -29,22 +29,22 @@ Some study resource for seeking a job.
 
 [**MMAP**](https://www.jianshu.com/p/755338d11865)
 
-##JAVA
+## JAVA
 [**一个Java程序从编写到最终运行经历了什么？**](https://blog.csdn.net/pf6668/article/details/107176293/)
 
 [**ThreadLocal**](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491139&idx=1&sn=a6d1ea97b231f86df2a0a43d9bb42d67&chksm=ebd75f42dca0d654f035670ef3d476c471e89f3831417d4ca38fc71c2b60f63f92934d2ad0c2&scene=126&sessionid=1596340315&key=e4d529ee8842329eda8dd46036775e4302b3e766aec42eada60dd381345aaa4f72b42c9df4915d157af976446ef256ed0915a0b85e8c6e4d09a21d86eb3e968edc99948340cbc942921f2d23c08c48ff&ascene=1&uin=OTA3NTg1NTYw&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=A1ie4WG0ocoa3%2BekXr6REYo%3D&pass_ticket=db4WJm2NGMPc1%2BhaLE0bnOohg6DFKrp97FlwbRMSEbsZB7nP5v8%2F1A2ixbmawsvG)
 
-##安卓
+## 安卓
 [**安卓**](https://www.jianshu.com/p/feb9584b492c)
 
-##Redis
+## Redis
 [**redis1**](https://github.com/Zongrul1/Study-Resource/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/redis.md)
 
 [**redis2**](https://github.com/Zongrul1/Study-Resource/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/redis2.md)
 
 
 
-##其他
+## 其他
 [**消费者模式**](https://github.com/Zongrul1/Study-Resource/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%B6%88%E8%B4%B9%E8%80%85%E6%A8%A1%E5%BC%8F.md)
 
 [**DOCKER**](https://mp.weixin.qq.com/s?__biz=MzAxNjk4ODE4OQ==&mid=2247489949&idx=3&sn=b98d0ccaffdf1e9fbbb408c417723c60&chksm=9bed38efac9ab1f9aeac9eaea5e46c938c935d2474322bc859e97e9d330e8dccabd56278b922&mpshare=1&scene=1&srcid=0623LJ7oTjdtWAyeEQHa0JMw&sharer_sharetime=1592883792809&sharer_shareid=c0b779bf572eee6e46a25cbfc916c28a&key=2cc21493b77c18de2f5124c115bc7bdaadefc7ff2aa040f8f6db9ae9f2245b97fdc206bd63049c1613667deb2ebb2222a0e2ecfdfb8a5f4d44d5950d5ff616524e1955f079d29b62a09215413adea9ec&ascene=1&uin=OTA3NTg1NTYw&devicetype=Windows+10+x64&version=6209007b&lang=zh_CN&exportkey=AxbrseanOh6yKbQMoPMMW5s%3D&pass_ticket=VtrgY1cuB3I6SK%2FkXNIbbAIK1tY9OHm4xAgqL%2B9cAYNZg%2B1j2emBFQvyN8MIW9Yq)
