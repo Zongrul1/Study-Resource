@@ -3,7 +3,7 @@ Some study resource for seeking a job.
 
 # Link
 [**学习资料**](https://github.com/CyC2018/CS-Notes)
-##算法
+## 算法
 [**LeetCode刷题指引1**](https://zhuanlan.zhihu.com/p/104983442)
 
 [**LeetCode刷题指引2**](https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns)
