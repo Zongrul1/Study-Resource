@@ -41,6 +41,8 @@ Some study resource for seeking a job.
 
 [**安卓2**](https://www.jianshu.com/p/fb8e2190e7ec)
 
+[**安卓3**](https://blog.csdn.net/qq_30379689/article/details/73698192)
+
 ## Redis
 [**redis1**](https://github.com/Zongrul1/Study-Resource/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/redis.md)
 
