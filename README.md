@@ -37,7 +37,9 @@ Some study resource for seeking a job.
 [**Synchronized**](https://www.zhihu.com/question/57794716/answer/1229073284?utm_source=wechat_session&utm_medium=social&utm_oi=552638133334777856&utm_content=sec)
 
 ## 安卓
-[**安卓**](https://www.jianshu.com/p/feb9584b492c)
+[**安卓1**](https://www.jianshu.com/p/feb9584b492c)
+
+[**安卓2**](https://www.jianshu.com/p/fb8e2190e7ec)
 
 ## Redis
 [**redis1**](https://github.com/Zongrul1/Study-Resource/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/redis.md)
