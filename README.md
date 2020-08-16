@@ -34,6 +34,8 @@ Some study resource for seeking a job.
 
 [**ThreadLocal**](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247491139&idx=1&sn=a6d1ea97b231f86df2a0a43d9bb42d67&chksm=ebd75f42dca0d654f035670ef3d476c471e89f3831417d4ca38fc71c2b60f63f92934d2ad0c2&scene=126&sessionid=1596340315&key=e4d529ee8842329eda8dd46036775e4302b3e766aec42eada60dd381345aaa4f72b42c9df4915d157af976446ef256ed0915a0b85e8c6e4d09a21d86eb3e968edc99948340cbc942921f2d23c08c48ff&ascene=1&uin=OTA3NTg1NTYw&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=A1ie4WG0ocoa3%2BekXr6REYo%3D&pass_ticket=db4WJm2NGMPc1%2BhaLE0bnOohg6DFKrp97FlwbRMSEbsZB7nP5v8%2F1A2ixbmawsvG)
 
+[**Synchronized**](https://www.zhihu.com/question/57794716/answer/1229073284?utm_source=wechat_session&utm_medium=social&utm_oi=552638133334777856&utm_content=sec)
+
 ## 安卓
 [**安卓**](https://www.jianshu.com/p/feb9584b492c)
 
