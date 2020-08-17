@@ -3,6 +3,8 @@ Some study resource for seeking a job.
 
 # Link
 [**学习资料**](https://github.com/CyC2018/CS-Notes)
+
+[**面试资料**](https://github.com/yuanguangxin/LeetCode/blob/master/Rocket.md)
 ## 算法
 [**LeetCode刷题指引1**](https://zhuanlan.zhihu.com/p/104983442)
 
