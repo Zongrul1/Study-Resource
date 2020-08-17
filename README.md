@@ -43,6 +43,8 @@ Some study resource for seeking a job.
 
 [**安卓3**](https://blog.csdn.net/qq_30379689/article/details/73698192)
 
+[**手势**](https://www.jianshu.com/p/fe3860118620)
+
 ## Redis
 [**redis1**](https://github.com/Zongrul1/Study-Resource/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/redis.md)
 
