@@ -31,6 +31,8 @@ Some study resource for seeking a job.
 
 [**MMAP**](https://www.jianshu.com/p/755338d11865)
 
+[**fork()**](https://www.cnblogs.com/dongguolei/p/8086346.html)
+
 ## JAVA
 [**一个Java程序从编写到最终运行经历了什么？**](https://blog.csdn.net/pf6668/article/details/107176293/)
 
