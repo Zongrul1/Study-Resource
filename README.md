@@ -12,6 +12,7 @@ Some study resource for seeking a job.
 [**安卓2**](https://www.jianshu.com/p/fb8e2190e7ec)
 
 [**安卓3**](https://blog.csdn.net/qq_30379689/article/details/73698192)
+
 [**安卓4**](https://www.jianshu.com/p/af52dd10058c)
 
 [**手势**](https://www.jianshu.com/p/fe3860118620)
