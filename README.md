@@ -17,6 +17,16 @@ Some study resource for seeking a job.
 
 [**手势**](https://www.jianshu.com/p/fe3860118620)
 
+[**音频**](https://blog.csdn.net/wdd1324/article/details/80263235)
+
+[**binder**](https://blog.csdn.net/carson_ho/article/details/73560642)
+
+[**插件化**](https://www.jianshu.com/p/71585d744076)
+
+[**Flutter**](https://zhuanlan.zhihu.com/p/102193331)
+
+[**boradcast**](https://blog.csdn.net/panhouye/article/details/53588930)
+
 ## 算法
 [**LeetCode刷题指引1**](https://zhuanlan.zhihu.com/p/104983442)
 
@@ -52,6 +62,8 @@ Some study resource for seeking a job.
 
 [**Synchronized**](https://www.zhihu.com/question/57794716/answer/1229073284?utm_source=wechat_session&utm_medium=social&utm_oi=552638133334777856&utm_content=sec)
 
+[**动态代理**](https://www.jianshu.com/p/9bcac608c714)
+
 ## Redis
 [**redis1**](https://github.com/Zongrul1/Study-Resource/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/redis.md)
 
@@ -65,6 +77,8 @@ Some study resource for seeking a job.
 [**Spring**](https://blog.csdn.net/a745233700/article/details/80959716)
 
 [**DOCKER**](https://mp.weixin.qq.com/s?__biz=MzAxNjk4ODE4OQ==&mid=2247489949&idx=3&sn=b98d0ccaffdf1e9fbbb408c417723c60&chksm=9bed38efac9ab1f9aeac9eaea5e46c938c935d2474322bc859e97e9d330e8dccabd56278b922&mpshare=1&scene=1&srcid=0623LJ7oTjdtWAyeEQHa0JMw&sharer_sharetime=1592883792809&sharer_shareid=c0b779bf572eee6e46a25cbfc916c28a&key=2cc21493b77c18de2f5124c115bc7bdaadefc7ff2aa040f8f6db9ae9f2245b97fdc206bd63049c1613667deb2ebb2222a0e2ecfdfb8a5f4d44d5950d5ff616524e1955f079d29b62a09215413adea9ec&ascene=1&uin=OTA3NTg1NTYw&devicetype=Windows+10+x64&version=6209007b&lang=zh_CN&exportkey=AxbrseanOh6yKbQMoPMMW5s%3D&pass_ticket=VtrgY1cuB3I6SK%2FkXNIbbAIK1tY9OHm4xAgqL%2B9cAYNZg%2B1j2emBFQvyN8MIW9Yq)
+
+[**SOLID**](https://www.cnblogs.com/suli0827/p/9515842.html)
 
 
 
