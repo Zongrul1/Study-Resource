@@ -25,7 +25,7 @@ Some study resource for seeking a job.
 
 [**Flutter**](https://zhuanlan.zhihu.com/p/102193331)
 
-[**boradcast**](https://blog.csdn.net/panhouye/article/details/53588930)
+[**boardcast**](https://blog.csdn.net/panhouye/article/details/53588930)
 
 ## 算法
 [**LeetCode刷题指引1**](https://zhuanlan.zhihu.com/p/104983442)
