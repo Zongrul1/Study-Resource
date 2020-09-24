@@ -27,6 +27,13 @@ Some study resource for seeking a job.
 
 [**boardcast**](https://blog.csdn.net/panhouye/article/details/53588930)
 
+## 多线程
+
+[模拟抢票](https://www.cnblogs.com/LangKeZ/p/12148616.html)
+
+[文件读取](https://blog.csdn.net/qq_40294980/article/details/82286878)
+
+
 ## 算法
 [**LeetCode刷题指引1**](https://zhuanlan.zhihu.com/p/104983442)
 
