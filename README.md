@@ -27,6 +27,10 @@ Some study resource for seeking a job.
 
 [**boardcast**](https://blog.csdn.net/panhouye/article/details/53588930)
 
+[**glide**](https://www.jianshu.com/p/17644406396b)
+
+[**recycleView**](https://www.jianshu.com/p/4f9591291365)
+
 ## 多线程
 
 [模拟抢票](https://www.cnblogs.com/LangKeZ/p/12148616.html)
@@ -48,6 +52,8 @@ Some study resource for seeking a job.
 [**LRU和LFU**](https://blog.csdn.net/foye12/article/details/78647647)
 
 [**DP**](https://zhuanlan.zhihu.com/p/180443034)
+
+[**随机打乱一个数组**](https://blog.csdn.net/happy_cheng/article/details/53591936)
 
 ## 网络
 [**计算机网络**](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247488741&idx=2&sn=32c62d632ec7e728b3e8b2c5cffe7263&chksm=ebd755e4dca0dcf256158f4215fa753285a8535a71d3ea9754932172f75705664e8c2f4e77d2&mpshare=1&scene=1&srcid=&sharer_sharetime=1590975914136&sharer_shareid=c0b779bf572eee6e46a25cbfc916c28a&key=97a8c4eadf5f346d75cbdfa4f8d524d95d268b6bfccf1f7fee1bf602d620f2938502a4ad01572204d53e5d5f2f28faa4e68c2ae32baa6383788f2b4baeab0b693dda9b1cfaf4f0482a63e34539e0c480&ascene=1&uin=OTA3NTg1NTYw&devicetype=Windows+10+x64&version=62090070&lang=zh_CN&exportkey=A8nJrzGc9WRYj4YEydo8Wbg%3D&pass_ticket=u9zFfHDPrztvv0GcP478k8aRpLYNxD3iPotK04wuTMXQNcZELkl2WiPv4sc%2Bwcxz)
