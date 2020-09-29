@@ -62,7 +62,6 @@ Some study resource for seeking a job.
 
 [**BBR算法**](https://github.com/Zongrul1/Study-Resource/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/BBR%E7%AE%97%E6%B3%95.md)
 
-[**TCP/IP**](https://www.zhihu.com/question/51074319/answer/124733136?utm_source=wechat_session&utm_medium=social&utm_oi=552638133334777856&utm_content=group3_Answer&utm_campaign=shareopn)
 ## 操作系统
 [**操作系统**](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247487659&idx=1&sn=27434cdda6dad8f70370ece23e29e11c&chksm=fa0e7f2acd79f63c1af1ddd7d79bb851dc59e0ebe48369af20b1ccc85e3dd73064622c371259&mpshare=1&scene=1&srcid=0620p5o9dQMkAwSNccTx9sAk&sharer_sharetime=1592645138221&sharer_shareid=c0b779bf572eee6e46a25cbfc916c28a&key=e026ba40496070e467d9a5acc51249d23dba5c67983483db7334ab56f7ac9bf81b3cef6993204648085d151f1804247e31f93c8a9894f2a978c200ffe8b3fde7e38410d353710d0763fc3f163d3470df&ascene=1&uin=OTA3NTg1NTYw&devicetype=Windows+10+x64&version=6209007b&lang=zh_CN&exportkey=A0fnyI3GzaMQRVmp6o%2BFoVk%3D&pass_ticket=Kil5Q2fgJSUxBnCRz7pTOlgvfCoE2%2BDXl5sVszmxUAWsIxVmqvEjcvXDaHNerCfq)
 
@@ -96,6 +95,8 @@ Some study resource for seeking a job.
 [**DOCKER**](https://mp.weixin.qq.com/s?__biz=MzAxNjk4ODE4OQ==&mid=2247489949&idx=3&sn=b98d0ccaffdf1e9fbbb408c417723c60&chksm=9bed38efac9ab1f9aeac9eaea5e46c938c935d2474322bc859e97e9d330e8dccabd56278b922&mpshare=1&scene=1&srcid=0623LJ7oTjdtWAyeEQHa0JMw&sharer_sharetime=1592883792809&sharer_shareid=c0b779bf572eee6e46a25cbfc916c28a&key=2cc21493b77c18de2f5124c115bc7bdaadefc7ff2aa040f8f6db9ae9f2245b97fdc206bd63049c1613667deb2ebb2222a0e2ecfdfb8a5f4d44d5950d5ff616524e1955f079d29b62a09215413adea9ec&ascene=1&uin=OTA3NTg1NTYw&devicetype=Windows+10+x64&version=6209007b&lang=zh_CN&exportkey=AxbrseanOh6yKbQMoPMMW5s%3D&pass_ticket=VtrgY1cuB3I6SK%2FkXNIbbAIK1tY9OHm4xAgqL%2B9cAYNZg%2B1j2emBFQvyN8MIW9Yq)
 
 [**SOLID**](https://www.cnblogs.com/suli0827/p/9515842.html)
+
+[**Nignx**](https://mp.weixin.qq.com/s?__biz=MzU3NTgyODQ1Nw==&mid=2247496488&idx=1&sn=97f1a1d7f67ebb63fc121ff4fe07e9e1&chksm=fd1f8baeca6802b83f37f8b4f912e474ccac90361dd710eb1349acfd6511b9e5ee5f7835bb5d&mpshare=1&scene=1&srcid=0929ZvMdaIZddzbcCOvMXasd&sharer_sharetime=1601338554500&sharer_shareid=c0b779bf572eee6e46a25cbfc916c28a&key=63bf57a79ff6991b27116cf48bd01897f8fe61e02dcd295dfd8298a0ff09287d1d60dc82509b1f2794814adb9bbc4b4e41325a227e777767fee25f6ed245d984451847830b85ec4fa1f5a7399a49b989e6292b76efc684cf8a541e824be1dd6905aefae91161b868428b5de3be3f8961f4a6ea7caba1e162c7742642149f8128&ascene=1&uin=OTA3NTg1NTYw&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=A7urdvClHQi45UhtHIh%2Bjrk%3D&pass_ticket=TJNShgM33pwkffxDSqI6mpr3FyRnPn%2FCY%2Fvm%2F56F1WSW4Qxj9Cy2gv6J%2B1EDPQLR&wx_header=0)
 
 
 
