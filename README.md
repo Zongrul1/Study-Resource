@@ -80,6 +80,10 @@ Some study resource for seeking a job.
 
 [**动态代理**](https://www.jianshu.com/p/9bcac608c714)
 
+[**JDK源码设计模式**](https://blog.csdn.net/qq_43792385/article/details/89632251)
+
+[**ZGC && G1**](https://blog.csdn.net/qq_41931364/article/details/107040928)
+
 ## Redis
 [**redis1**](https://github.com/Zongrul1/Study-Resource/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/redis.md)
 
