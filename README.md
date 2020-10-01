@@ -1,19 +1,17 @@
 # Study-Resource
-Some study resource for seeking a job.
+一些学习资料。
 
-# Link
+# Important Link
 [**学习资料**](https://github.com/CyC2018/CS-Notes)
 
 [**面试资料**](https://github.com/yuanguangxin/LeetCode/blob/master/Rocket.md)
 
+[**算法资料**](https://labuladong.gitbook.io/algo/)
+
+[**安卓面试题**](https://blog.csdn.net/qq_30379689/article/details/73698192)
+
 ## 安卓
-[**安卓1**](https://www.jianshu.com/p/feb9584b492c)
-
-[**安卓2**](https://www.jianshu.com/p/fb8e2190e7ec)
-
-[**安卓3**](https://blog.csdn.net/qq_30379689/article/details/73698192)
-
-[**安卓4**](https://www.jianshu.com/p/af52dd10058c)
+[**Handler**](https://www.jianshu.com/p/af52dd10058c)
 
 [**手势**](https://www.jianshu.com/p/fe3860118620)
 
@@ -31,17 +29,10 @@ Some study resource for seeking a job.
 
 [**recycleView**](https://www.jianshu.com/p/4f9591291365)
 
-## 多线程
-
-[模拟抢票](https://www.cnblogs.com/LangKeZ/p/12148616.html)
-
-[文件读取](https://blog.csdn.net/qq_40294980/article/details/82286878)
-
 
 ## 算法
-[**LeetCode刷题指引1**](https://zhuanlan.zhihu.com/p/104983442)
 
-[**LeetCode刷题指引2**](https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns)
+[**LeetCode刷题指引**](https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns)
 
 [**kmp**](https://github.com/Zongrul1/Study-Resource/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/kmp.md)
 
@@ -89,7 +80,11 @@ Some study resource for seeking a job.
 
 [**redis2**](https://github.com/Zongrul1/Study-Resource/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/redis2.md)
 
+## 多线程
 
+[**模拟抢票**](https://www.cnblogs.com/LangKeZ/p/12148616.html)
+
+[**文件读取**](https://blog.csdn.net/qq_40294980/article/details/82286878)
 
 ## 其他
 [**消费者模式**](https://github.com/Zongrul1/Study-Resource/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%B6%88%E8%B4%B9%E8%80%85%E6%A8%A1%E5%BC%8F.md)
