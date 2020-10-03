@@ -6,9 +6,13 @@
 
 [**面试资料**](https://github.com/yuanguangxin/LeetCode/blob/master/Rocket.md)
 
-[**算法资料**](https://labuladong.gitbook.io/algo/)
+[**算法资料1**](https://labuladong.gitbook.io/algo/)
+
+[**算法资料2**](https://github.com/labuladong/fucking-algorithm)
 
 [**安卓面试题**](https://blog.csdn.net/qq_30379689/article/details/73698192)
+
+[**Java高频**](https://www.nowcoder.com/tutorial/10014/d2adaf393c574bbdaf0bb83b183369b5)
 
 ## 安卓
 [**Handler**](https://www.jianshu.com/p/af52dd10058c)
