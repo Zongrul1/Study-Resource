@@ -1,7 +1,5 @@
-# Study-Resource
+# 学习资源
 
-
-----------
 
 [**学习资料**](https://github.com/CyC2018/CS-Notes)
 
@@ -14,9 +12,8 @@
 [**Java高频宝典**](https://www.nowcoder.com/tutorial/10014/d2adaf393c574bbdaf0bb83b183369b5)
 
 
-# 相关参考
+# 相关参考资料
 
-----------
 ## 安卓
 [**Handler**](https://www.jianshu.com/p/af52dd10058c)
 
