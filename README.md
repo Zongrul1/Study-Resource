@@ -1,21 +1,22 @@
 # Study-Resource
-一些学习资料。
 
-# Important Link
+
+----------
+
 [**学习资料**](https://github.com/CyC2018/CS-Notes)
 
 [**面试资料**](https://github.com/yuanguangxin/LeetCode/blob/master/Rocket.md)
 
-[**算法资料1**](https://labuladong.gitbook.io/algo/)
+[**算法资料**](https://github.com/labuladong/fucking-algorithm)
 
-[**算法资料2**](https://github.com/labuladong/fucking-algorithm)
+[**安卓面试**](https://blog.csdn.net/qq_30379689/article/details/73698192)
 
-[**安卓面试题**](https://blog.csdn.net/qq_30379689/article/details/73698192)
+[**Java高频宝典**](https://www.nowcoder.com/tutorial/10014/d2adaf393c574bbdaf0bb83b183369b5)
 
-[**Java高频**](https://www.nowcoder.com/tutorial/10014/d2adaf393c574bbdaf0bb83b183369b5)
 
-[**SQL**](https://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&mid=2453146982&idx=1&sn=bc4c3484fd93e4cae594e4bbd5fde2e5&chksm=8cfd2fe5bb8aa6f34fd6c31c5d2b95682dc27629532e540d4afe89101778579b548911728d17&mpshare=1&scene=1&srcid=1010OM7bpELQBR2aArpilcM2&sharer_sharetime=1602291337699&sharer_shareid=c0b779bf572eee6e46a25cbfc916c28a&key=35e83ae87188987323b92c1d77455f9549e7dd30072121b4dd34dbb4f6a8ae5a26574a674fd89832f8b2450d8dd2c482fac4c6f885e1fa127dfd5659755f93823c68b2083a82682a43ea4aba3bd22ed67f6ac51243f6478b47f63bdff51b623ccd67b0a5d6be1ecd5cf6836473a6178f6f46b37175c68f3ab0b26bbdd53545d3&ascene=1&uin=OTA3NTg1NTYw&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AwrWxxs1jKzt5R1oXrqWqQA%3D&pass_ticket=TBlu63u20Ky%2B2OMQMS7Rf8buC%2BPLpHwqffmrfpZlkV9fjlN9B14NxooDSKh08o99&wx_header=0)
+# 相关参考
 
+----------
 ## 安卓
 [**Handler**](https://www.jianshu.com/p/af52dd10058c)
 
@@ -81,10 +82,12 @@
 
 [**ZGC && G1**](https://blog.csdn.net/qq_41931364/article/details/107040928)
 
-## Redis
+## 数据库
 [**redis1**](https://github.com/Zongrul1/Study-Resource/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/redis.md)
 
 [**redis2**](https://github.com/Zongrul1/Study-Resource/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/redis2.md)
+
+[**SQL**](https://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&mid=2453146982&idx=1&sn=bc4c3484fd93e4cae594e4bbd5fde2e5&chksm=8cfd2fe5bb8aa6f34fd6c31c5d2b95682dc27629532e540d4afe89101778579b548911728d17&mpshare=1&scene=1&srcid=1010OM7bpELQBR2aArpilcM2&sharer_sharetime=1602291337699&sharer_shareid=c0b779bf572eee6e46a25cbfc916c28a&key=35e83ae87188987323b92c1d77455f9549e7dd30072121b4dd34dbb4f6a8ae5a26574a674fd89832f8b2450d8dd2c482fac4c6f885e1fa127dfd5659755f93823c68b2083a82682a43ea4aba3bd22ed67f6ac51243f6478b47f63bdff51b623ccd67b0a5d6be1ecd5cf6836473a6178f6f46b37175c68f3ab0b26bbdd53545d3&ascene=1&uin=OTA3NTg1NTYw&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AwrWxxs1jKzt5R1oXrqWqQA%3D&pass_ticket=TBlu63u20Ky%2B2OMQMS7Rf8buC%2BPLpHwqffmrfpZlkV9fjlN9B14NxooDSKh08o99&wx_header=0)
 
 ## 多线程
 
