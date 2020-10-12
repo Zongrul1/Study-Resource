@@ -20,6 +20,7 @@
 - [**Flutter**](https://zhuanlan.zhihu.com/p/102193331)
 - [**boardcast**](https://blog.csdn.net/panhouye/article/details/53588930)
 - [**glide**](https://www.jianshu.com/p/17644406396b)
+- [**glide源码**](https://blog.csdn.net/songzi1228/article/details/84426165)
 - [**recycleView**](https://www.jianshu.com/p/4f9591291365)
 - [**xml && json**](https://blog.csdn.net/diren9643/article/details/106092164)
 
