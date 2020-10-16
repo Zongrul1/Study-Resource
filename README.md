@@ -46,6 +46,8 @@
 - [**进程和线程**](https://blog.csdn.net/a3192048/article/details/82085422)
 - [**MMAP**](https://www.jianshu.com/p/755338d11865)
 - [**fork()**](https://www.cnblogs.com/dongguolei/p/8086346.html)
+- [**键盘敲入 A 字母时，操作系统期间发生了什么....**](
+https://zhuanlan.zhihu.com/p/195701027)
 
 ## JAVA
 - [**一个Java程序从编写到最终运行经历了什么？**](https://blog.csdn.net/pf6668/article/details/107176293/)
@@ -62,7 +64,7 @@
 
 ## 多线程
  
-- [**模拟抢票**](https://www.cnblogs.com/LangKeZ/p/12148616.html)
+- [**模拟抢票**](https://blog.csdn.net/qq_34721505/article/details/88812514)
 - [**文件读取**](https://blog.csdn.net/qq_40294980/article/details/82286878)
 
 ## 其他
