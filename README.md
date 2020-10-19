@@ -64,6 +64,7 @@ https://zhuanlan.zhihu.com/p/195701027)
 - [**SQL**](https://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&mid=2453146982&idx=1&sn=bc4c3484fd93e4cae594e4bbd5fde2e5&chksm=8cfd2fe5bb8aa6f34fd6c31c5d2b95682dc27629532e540d4afe89101778579b548911728d17&mpshare=1&scene=1&srcid=1010OM7bpELQBR2aArpilcM2&sharer_sharetime=1602291337699&sharer_shareid=c0b779bf572eee6e46a25cbfc916c28a&key=35e83ae87188987323b92c1d77455f9549e7dd30072121b4dd34dbb4f6a8ae5a26574a674fd89832f8b2450d8dd2c482fac4c6f885e1fa127dfd5659755f93823c68b2083a82682a43ea4aba3bd22ed67f6ac51243f6478b47f63bdff51b623ccd67b0a5d6be1ecd5cf6836473a6178f6f46b37175c68f3ab0b26bbdd53545d3&ascene=1&uin=OTA3NTg1NTYw&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AwrWxxs1jKzt5R1oXrqWqQA%3D&pass_ticket=TBlu63u20Ky%2B2OMQMS7Rf8buC%2BPLpHwqffmrfpZlkV9fjlN9B14NxooDSKh08o99&wx_header=0)
 - [**索引存储位置**](https://blog.csdn.net/qq_36098284/article/details/79841920)
 - [**LRU**](https://blog.csdn.net/u010223431/article/details/105498387)
+- [**索引优化**](https://blog.csdn.net/xiaojin21cen/article/details/84325996)
 
 ## 多线程
  
