@@ -56,6 +56,7 @@ https://zhuanlan.zhihu.com/p/195701027)
 - [**动态代理**](https://www.jianshu.com/p/9bcac608c714)
 - [**JDK源码设计模式**](https://blog.csdn.net/qq_43792385/article/details/89632251)
 - [**ZGC && G1**](https://blog.csdn.net/qq_41931364/article/details/107040928)
+- [**新特性**](https://mp.weixin.qq.com/s?__biz=MzI5MzYzMDAwNw==&mid=2247491152&idx=3&sn=47d68080b5bb1197ea95fbfbf43c0a1d&chksm=ec6e6708db19ee1eb9766e27e085d8b034f284ab04e144034f0d9ef3b8d6139b58176d42c371&mpshare=1&scene=1&srcid=1019p4sAawqBoVRc25BynRXD&sharer_sharetime=1603092917336&sharer_shareid=c0b779bf572eee6e46a25cbfc916c28a&key=b6b2c5109aba53e4153d01360b5de6ee7fb74212d217980a6e0d23e30cd0e4b96e4d4b2a5d3efc950eb11212cba792ec8a8d3a79b983b663a2be8d531802a977729b0f373a157cf35038588115e121167ae9c2cdfae1273d2d86bcabed7361fe1b1a90ee8de30d8fcf08e1b56c811a1b139c4d2d61bbb9752c36f83b48720869&ascene=1&uin=OTA3NTg1NTYw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=A21kNcV6YA3W0OYIudGC2k8%3D&pass_ticket=MtVeaXddQinOUoBNp9d8QqlEu0N5rxCRbZ6y9Myyb4jsApOM5RbXNbKSFCpO3LcJ&wx_header=0)
 
 ## 数据库
 - [**redis1**](https://github.com/Zongrul1/Study-Resource/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/redis.md)
@@ -77,6 +78,7 @@ https://zhuanlan.zhihu.com/p/195701027)
 - [**DOCKER**](https://mp.weixin.qq.com/s?__biz=MzAxNjk4ODE4OQ==&mid=2247489949&idx=3&sn=b98d0ccaffdf1e9fbbb408c417723c60&chksm=9bed38efac9ab1f9aeac9eaea5e46c938c935d2474322bc859e97e9d330e8dccabd56278b922&mpshare=1&scene=1&srcid=0623LJ7oTjdtWAyeEQHa0JMw&sharer_sharetime=1592883792809&sharer_shareid=c0b779bf572eee6e46a25cbfc916c28a&key=2cc21493b77c18de2f5124c115bc7bdaadefc7ff2aa040f8f6db9ae9f2245b97fdc206bd63049c1613667deb2ebb2222a0e2ecfdfb8a5f4d44d5950d5ff616524e1955f079d29b62a09215413adea9ec&ascene=1&uin=OTA3NTg1NTYw&devicetype=Windows+10+x64&version=6209007b&lang=zh_CN&exportkey=AxbrseanOh6yKbQMoPMMW5s%3D&pass_ticket=VtrgY1cuB3I6SK%2FkXNIbbAIK1tY9OHm4xAgqL%2B9cAYNZg%2B1j2emBFQvyN8MIW9Yq)
 - [**SOLID**](https://www.cnblogs.com/suli0827/p/9515842.html)
 - [**Nignx**](https://mp.weixin.qq.com/s?__biz=MzU3NTgyODQ1Nw==&mid=2247496488&idx=1&sn=97f1a1d7f67ebb63fc121ff4fe07e9e1&chksm=fd1f8baeca6802b83f37f8b4f912e474ccac90361dd710eb1349acfd6511b9e5ee5f7835bb5d&mpshare=1&scene=1&srcid=0929ZvMdaIZddzbcCOvMXasd&sharer_sharetime=1601338554500&sharer_shareid=c0b779bf572eee6e46a25cbfc916c28a&key=63bf57a79ff6991b27116cf48bd01897f8fe61e02dcd295dfd8298a0ff09287d1d60dc82509b1f2794814adb9bbc4b4e41325a227e777767fee25f6ed245d984451847830b85ec4fa1f5a7399a49b989e6292b76efc684cf8a541e824be1dd6905aefae91161b868428b5de3be3f8961f4a6ea7caba1e162c7742642149f8128&ascene=1&uin=OTA3NTg1NTYw&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=A7urdvClHQi45UhtHIh%2Bjrk%3D&pass_ticket=TJNShgM33pwkffxDSqI6mpr3FyRnPn%2FCY%2Fvm%2F56F1WSW4Qxj9Cy2gv6J%2B1EDPQLR&wx_header=0)
+- [**设计一个IOC**](https://blog.csdn.net/ya52glp/article/details/52685182)
 
 
 
