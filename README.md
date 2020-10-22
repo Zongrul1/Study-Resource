@@ -70,6 +70,7 @@ https://zhuanlan.zhihu.com/p/195701027)
 - [**索引存储位置**](https://blog.csdn.net/qq_36098284/article/details/79841920)
 - [**LRU**](https://blog.csdn.net/u010223431/article/details/105498387)
 - [**索引优化**](https://blog.csdn.net/xiaojin21cen/article/details/84325996)
+- [**索引详解**](https://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&mid=2453147214&idx=1&sn=d6ef2e8b8c139db9dc302753050f535e&chksm=8cfd2ccdbb8aa5db91198f30c6968b1ec92525887627bd7cae10a713ab8f4bf06365c3c17223&mpshare=1&scene=1&srcid=10228SFhwQahLmiwvX4K3JT5&sharer_sharetime=1603328539894&sharer_shareid=c0b779bf572eee6e46a25cbfc916c28a&key=6bd623fb08b4ab08fd8455e5aeaaefa2288843de6fd9d7f8056f9ef872b8d59dfa7b311a911f22c1b05ce5aedf53410f5239fafeeeb08002acc1ae3c47d2f81da6c3fceb387deb4092785ffed599d963351a257f1d820188b59a2467f6422e2b42b2d16680c9085b6b36698fcdeacc2cc7176e647c5ec76bba46fd6dc50c9575&ascene=1&uin=OTA3NTg1NTYw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AygzVVg3XSxohBsf0S8PKZM%3D&pass_ticket=LxVmT%2BSZkDlLDKLZM%2BIC05SJCnEXGB%2Bmoj6pt3HpZZCt%2F4VOm7cIGFMd4o2dgvoC&wx_header=0)
 
 ## 多线程
  
