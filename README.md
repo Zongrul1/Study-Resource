@@ -26,6 +26,7 @@
 - [**recycleView**](https://www.jianshu.com/p/4f9591291365)
 - [**xml && json**](https://blog.csdn.net/diren9643/article/details/106092164)
 - [**Fragment add && replace**](https://mp.weixin.qq.com/s?__biz=MzU2NTcwMTU0OQ==&mid=2247492832&idx=1&sn=0b61abba6aa2957bc8ea5d4f919c9354&chksm=fcb51a22cbc29334a76a7c07db06c5395f9e25c4871437cc533997a628765f6c1d3b8fdc20da&scene=126&sessionid=1603362518&key=e4d529ee8842329eed60c52a2f06e017b64e9ca493a818bd1660162957ded11c9b58bbb65004a87775c526ed9845eb4feb0107ba39257b83d51e40d8bbeb71361316afdb3696e0999a8132672ad15c19b839a3f13583d323b28c9e46908a63597834be1f5c058907d760d4fe0ab4eeaad8e80024dd3b27990dbe22830085fc4a&ascene=1&uin=OTA3NTg1NTYw&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AwAW8ZwJFt9JJcNlG4Q3Dtg%3D&pass_ticket=LxVmT%2BSZkDlLDKLZM%2BIC05SJCnEXGB%2Bmoj6pt3HpZZCt%2F4VOm7cIGFMd4o2dgvoC&wx_header=0)
+- [**new Handler.Callback()**](https://www.jianshu.com/p/41abcdd72bda)
 
 
 ## 算法
