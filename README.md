@@ -14,6 +14,7 @@
 # 相关参考资料
 
 ## 安卓
+- [**新特性**](https://www.jianshu.com/p/4daadcbefdfd)
 - [**Handler**](https://www.jianshu.com/p/af52dd10058c)
 - [**手势**](https://www.jianshu.com/p/fe3860118620)
 - [**音频**](https://blog.csdn.net/wdd1324/article/details/80263235)
